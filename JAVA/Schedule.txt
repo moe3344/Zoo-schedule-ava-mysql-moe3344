@@ -1,0 +1,306 @@
+hour: [0.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [1.00]   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: feedingSlinky , Slinky , Slinky , Slinky , Slinky ,     
+     duration: 30    
+--------------------------------------------------
+hour: [2.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: cleaning  ,Loner ,Biter ,Bitter ,Pencil ,Eraser ,Annie, Oliver and Mowgli    
+     duration: 30    
+--------------------------------------------------
+hour: [3.00]
+    description: cleaning  ,Slinky ,Boots ,Spin ,Spot ,Slinky ,Slinky ,Slinky ,Slinky ,Slinky ,Slinky    
+     duration: 50    
+
+    description: cleaning  ,Spike    
+     duration: 10    
+--------------------------------------------------
+hour: [4.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: cleaning  ,Javelin ,Gatekeeper ,Sunshine    
+     duration: 30    
+--------------------------------------------------
+hour: [5.00]
+    description: cleaning  ,Shadow    
+     duration: 10    
+--------------------------------------------------
+hour: [6.00]
+    description: Administer antibiotics    
+     duration: 5    
+
+    description: Flush neck wound    
+     duration: 25    
+
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [7.00]
+    description: feeding , Loner , Biter , Bitter , Pencil , Eraser , Boots , Spin , Spot    
+     duration: 50    
+--------------------------------------------------
+hour: [8.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [9.00]
+    description: feeding , Spike , Javelin , Gatekeeper , Sunshine , Shadow    
+     duration: 35    
+--------------------------------------------------
+hour: [10.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [12.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [13.00]
+    description: Eyedrops    
+     duration: 25    
+
+    description: Inspect broken leg    
+     duration: 5    
+
+    description: Inspect broken leg    
+     duration: 5    
+
+    description: Mange treatment    
+     duration: 15    
+
+    description: Give vitamin injection    
+     duration: 5    
+
+    description: Give vitamin injection    
+     duration: 5    
+--------------------------------------------------
+hour: [14.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: Mange treatment    
+     duration: 15    
+
+    description: Give vitamin injection    
+     duration: 5    
+--------------------------------------------------
+hour: [15.00]
+    description: Apply burn ointment back    
+     duration: 10    
+--------------------------------------------------
+hour: [16.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [18.00]
+    description: Administer antibiotics    
+     duration: 5    
+
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [19.00]
+    description: Rebandage leg wound    
+     duration: 20    
+--------------------------------------------------
+hour: [20.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [22.00]
+    description: Give fluid injection    
+     duration: 10    
+
+    description: Eyedrops    
+     duration: 25    
+
+    description: Eyedrops    
+     duration: 25    
+--------------------------------------------------
+hour: [23.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: Mange treatment    
+     duration: 15    
+
+    description: Give vitamin injection    
+     duration: 5    
+--------------------------------------------------
+hour: [0.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [1.00]   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: Kit feeding    
+     duration: 30    
+   [backup vol]
+    description: feedingSlinky , Slinky , Slinky , Slinky , Slinky ,     
+     duration: 30    
+--------------------------------------------------
+hour: [2.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: cleaning  ,Loner ,Biter ,Bitter ,Pencil ,Eraser ,Annie, Oliver and Mowgli    
+     duration: 30    
+--------------------------------------------------
+hour: [3.00]
+    description: cleaning  ,Slinky ,Boots ,Spin ,Spot ,Slinky ,Slinky ,Slinky ,Slinky ,Slinky ,Slinky    
+     duration: 50    
+
+    description: cleaning  ,Spike    
+     duration: 10    
+--------------------------------------------------
+hour: [4.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: cleaning  ,Javelin ,Gatekeeper ,Sunshine    
+     duration: 30    
+--------------------------------------------------
+hour: [5.00]
+    description: cleaning  ,Shadow    
+     duration: 10    
+--------------------------------------------------
+hour: [6.00]
+    description: Administer antibiotics    
+     duration: 5    
+
+    description: Flush neck wound    
+     duration: 25    
+
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [7.00]
+    description: feeding , Loner , Biter , Bitter , Pencil , Eraser , Boots , Spin , Spot    
+     duration: 50    
+--------------------------------------------------
+hour: [8.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [9.00]
+    description: feeding , Spike , Javelin , Gatekeeper , Sunshine , Shadow    
+     duration: 35    
+--------------------------------------------------
+hour: [10.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [12.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [13.00]
+    description: Eyedrops    
+     duration: 25    
+
+    description: Inspect broken leg    
+     duration: 5    
+
+    description: Inspect broken leg    
+     duration: 5    
+
+    description: Mange treatment    
+     duration: 15    
+
+    description: Give vitamin injection    
+     duration: 5    
+
+    description: Give vitamin injection    
+     duration: 5    
+--------------------------------------------------
+hour: [14.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: Mange treatment    
+     duration: 15    
+
+    description: Give vitamin injection    
+     duration: 5    
+--------------------------------------------------
+hour: [15.00]
+    description: Apply burn ointment back    
+     duration: 10    
+--------------------------------------------------
+hour: [16.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [18.00]
+    description: Administer antibiotics    
+     duration: 5    
+
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [19.00]
+    description: Rebandage leg wound    
+     duration: 20    
+--------------------------------------------------
+hour: [20.00]
+    description: Kit feeding    
+     duration: 30    
+--------------------------------------------------
+hour: [22.00]
+    description: Give fluid injection    
+     duration: 10    
+
+    description: Eyedrops    
+     duration: 25    
+
+    description: Eyedrops    
+     duration: 25    
+--------------------------------------------------
+hour: [23.00]
+    description: Kit feeding    
+     duration: 30    
+
+    description: Mange treatment    
+     duration: 15    
+
+    description: Give vitamin injection    
+     duration: 5    
+--------------------------------------------------
